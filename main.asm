@@ -1,7 +1,7 @@
 org 0x7C00
 bits 16
 
-
+; not sure is it work or not, but it just must, lmao...
 
 main:
 	hlt
